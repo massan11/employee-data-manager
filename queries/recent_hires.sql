@@ -1,2 +1,2 @@
 SELECT * FROM Employees 
-WHERE HireDate >= DATEADD(MONTH, -6, GETDATE());
+WHERE HireDate <= DATEADD(MONTH, -6, GETDATE());
