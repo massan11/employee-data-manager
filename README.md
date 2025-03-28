@@ -32,5 +32,5 @@ First, execute employee_data_manager.sql to create the table.
 
 Then, run any query from the queries/ folder.
 
-# **Author**
+## **Author**
 Created by Massan as part of an SQL learning journey.
