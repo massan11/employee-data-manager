@@ -9,6 +9,7 @@ A **SQL Server project** for managing and analyzing employee data using **T-SQL*
 -  **Database Schema**: Defines `Employees` table.
 
 ##  Project Structure
+```
 employee-data-manager/ 
 │── README.md # Project description 
 │── employee_data_manager.sql # SQL script for the project 
@@ -18,7 +19,7 @@ employee-data-manager/
 │ ├── calculate_age.sql # Query to calculate employee age 
 │ ├── recent_hires.sql # Query to find recent hires 
 │ ├── job_title_filter.sql # Query to find employees with "SQL" in job title
-
+```
 
 ##  How to Use
 1️⃣ **Clone the repository**  
