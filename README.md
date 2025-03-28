@@ -22,9 +22,9 @@ employee-data-manager/
 
 ##  How to Use
 1️⃣ **Clone the repository**  
-```sh
+```
 git clone https://github.com/massan11/employee-data-manager.git
-
+```
 2️⃣ Run the SQL scripts in SSMS
 
 First, execute employee_data_manager.sql to create the table.
