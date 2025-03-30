@@ -6,6 +6,9 @@ A **SQL Server project** for managing and analyzing employee data using **T-SQL*
 -  **Data Cleaning**: Formats names properly.
 -  **Date Functions**: Calculates employee age.
 -  **Filtering Queries**: Finds recent hires and employees with "SQL" in their job title.
+-  **Departments & Employees**: Relational database structure.
+-  **SQL Joins**: Inner, Left, Right, Full, and Cross Joins.
+-  **Well-structured Queries**: Organized in separate `.sql` files.
 -  **Database Schema**: Defines `Employees` table.
 
 ##  Project Structure
@@ -19,6 +22,9 @@ employee-data-manager/
 │ ├── calculate_age.sql # Query to calculate employee age 
 │ ├── recent_hires.sql # Query to find recent hires 
 │ ├── job_title_filter.sql # Query to find employees with "SQL" in job title
+│ ├── inner_join.sql
+│ ├── left_join.sql
+│ ├── right_join.sql
 ```
 
 ##  How to Use
