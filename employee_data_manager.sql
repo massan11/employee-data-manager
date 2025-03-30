@@ -18,7 +18,7 @@ CREATE TABLE Employees (
 INSERT INTO Departments (DepartmentID, DepartmentName) VALUES
 (1, 'IT'),
 (2, 'ER'),
-(3, 'Marketing')
+(3, 'Marketing');
 
 INSERT INTO Employees (EmployeeID, FirstName, LastName, BirthDate, JobTitle, HireDate)
 VALUES 
